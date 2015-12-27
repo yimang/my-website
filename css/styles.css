@@ -1,0 +1,41 @@
+body{
+  font-family: Arial, sans-serif;
+  background-color: #C9CED1;
+}
+#navigation_bar{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #546A7B;
+}
+.tabs{
+  float: left;
+}
+.tabs a{
+  font-family: Arial, sans-serif;
+  font-size: 150%;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font
+}
+.tabs a:hover{
+   background-color: #758591;
+}
+#current_tab{
+  background-color: #758591;
+}
+#selfie{
+  width: 20%;
+  float: left;
+  margin-right: 16px;
+}
+#employee_database_interface{
+  width: 50%;
+  float: left;
+  margin-right: 16px;
+}
+
