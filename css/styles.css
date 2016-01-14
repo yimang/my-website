@@ -1,6 +1,11 @@
 body{
-  font-family: Arial, sans-serif;
+  font-family: 'Josefin Sans', Arial, sans-serif;
   background-color: #97AFC1;
+}
+#name{
+  color: white;
+  text-align: center;
+  font-size: 500%;
 }
 #navigation_bar{
   list-style-type: none;
