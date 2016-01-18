@@ -1,12 +1,3 @@
-body{
-  font-family: 'Josefin Sans', Arial, sans-serif;
-  background-color: #97AFC1;
-}
-#name{
-  color: white;
-  text-align: center;
-  font-size: 500%;
-}
 #navigation_bar{
   list-style-type: none;
   margin: 0;
@@ -28,6 +19,8 @@ body{
   font
 }
 .tabs a:hover{
+   text-decoration: none;
+   color: white;
    background-color: #234A68;
 }
 #current_tab{
